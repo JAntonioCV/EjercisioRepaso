@@ -21,7 +21,7 @@ namespace EjercisioIf
             numero = numero + numero;
 
             //Salida
-            Console.WriteLine("La Suma del numero es: " + numero);
+            Console.WriteLine("La Suma de dos veces el numero es: " + numero);
 
             Console.ReadKey();
         }
